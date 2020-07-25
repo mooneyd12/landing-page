@@ -1,0 +1,11 @@
+footer {
+    width: calc(100% - 30px);
+    height: 50px;
+    background-color:black;
+    color: white;
+    padding: 15px;
+}
+
+footer p {
+    text-align: center;
+}
